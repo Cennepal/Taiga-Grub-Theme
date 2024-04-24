@@ -1,4 +1,5 @@
 # Taiga-Grub-Theme
+![Taigaboot](https://github.com/NOCx420/Taiga-Grub-Theme/blob/main/arch-linux/background.png)
 Basically just "Distro Grub Themes" arch theme with a modified background.
 
 Original: [Link](https://www.pling.com/p/1482847/)
